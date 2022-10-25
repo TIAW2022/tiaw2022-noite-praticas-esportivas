@@ -13,7 +13,7 @@ Escreva um ou dois parágrafos resumindo o objetivo do seu projeto.
 
 ## Professores responsáveis
 
-Caroline Rhaian da Silva Jandre
+* Caroline Rhaian da Silva Jandre
 
 
 ## Quadro de tarefas
