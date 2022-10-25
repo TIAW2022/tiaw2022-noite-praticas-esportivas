@@ -4,11 +4,11 @@ Escreva um ou dois parágrafos resumindo o objetivo do seu projeto.
 
 ## Alunos integrantes da equipe
 
- Adrielly Coelho Julião
- Davi Ribeiro de Paula
- Lucas Emmanuel Estevão da Paixão
- Richard Luiz de Oliveira
- Rodrigo Tadeu da Cunha Pontes
+ * Adrielly Coelho Julião
+ * Davi Ribeiro de Paula
+ * Lucas Emmanuel Estevão da Paixão
+ * Richard Luiz de Oliveira
+ * Rodrigo Tadeu da Cunha Pontes
 
 
 ## Professores responsáveis
