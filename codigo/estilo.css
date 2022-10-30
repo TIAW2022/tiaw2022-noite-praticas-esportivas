@@ -16,7 +16,7 @@ a{
     background-color: rgb(255, 255, 255);
     z-index: 100;
     position: fixed;
-    width: 1349px;
+    width: 1650px;
     height: 200px;
 }
 
@@ -86,7 +86,38 @@ vertical-align: baseline;
 }
 
 #site-areas {
-    width: 1349px;
-    height: 40px;
+    float: left;
+    padding: 10px;
+    margin: 15px 0 0 0;
+    width: 1570px;
+    height: 30px;
+    padding-left: 0px;
+    background-color: #4658d6;    
+}
+ul{
+    list-style-type: square;
+    list-style-position: inside;
+    width: 1570px;
+    height: 30px;
     background-color: #4658d6;
+}
+
+#site-areas ul li {
+    float: left;
+    list-style: none;
+    padding: 0 95px;
+    height: 24px;
+    
+}
+
+#site-areas ul li a {
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: normal;
+    text-transform: uppercase;
+    font-family: 'Open Sans', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    font-weight: 600;
+    letter-spacing: -1px;
+    color: #fff;
 }
