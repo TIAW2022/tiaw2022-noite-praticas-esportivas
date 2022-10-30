@@ -1,0 +1,79 @@
+body{
+    background-color: white;
+}
+
+img{
+    width: 240px;
+    height: 140px;
+}
+a{
+    width: 250px;
+    height: 14px;
+}
+
+#site-header{
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    z-index: 100;
+    position: fixed;
+    width: 1349px;
+    height: 174px;
+}
+
+#site-tools{
+    width: 1349px;
+    height: 40px;
+    background-color: #4658d6;
+}
+#site-tools h1 {
+    color: #fff;
+    padding: 5px 20px 5px 0;
+    display: block;
+    font-family: 'Open Sans', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    font-weight: 600;
+    letter-spacing: -1px;
+    font-size: 20px;
+    width: 454px;
+    height: 14px;
+    border: 0px, 0px,0px 0;
+}
+
+
+#site-header-wrapper {
+    width: 1055px;
+    height: 119px;
+    padding: 0px;
+    border: 0px;
+    margin: 10px auto;
+}
+
+#site-branding {
+    float: left;
+    padding: 10px;
+}
+
+#site{
+    width: 474px;
+    height: 24px;
+}
+
+#site-search{
+    float: left;
+    padding: 10px;
+}
+#s {
+    width: 430px;
+    height: 30px;
+}
+#searchsubmit {
+    width: 100px;
+    height: 30px;
+}
+
+#site-areas {
+    width: 1349px;
+    height: 40px;
+    background-color: #4658d6;
+}
+
