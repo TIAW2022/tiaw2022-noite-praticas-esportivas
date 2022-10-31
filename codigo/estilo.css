@@ -15,9 +15,9 @@ a{
     width: 100%;
     background-color: rgb(255, 255, 255);
     z-index: 100;
-    position: fixed;
+    position: revert;
     width: 1650px;
-    height: 200px;
+    height: 250px;
 }
 
 #site-tools{
@@ -120,4 +120,21 @@ ul{
     font-weight: 600;
     letter-spacing: -1px;
     color: #fff;
+    padding-bottom: 20px;
+}
+#site-espaco{
+    float: left;
+    width: 1570px;
+    height: 10px;
+}
+
+#site-features {
+    width: 800px;
+    height: 840px;
+    float: left;
+    background-color: blue;
+}
+
+#site-texto_principal{
+    max-width: 100%;
 }
