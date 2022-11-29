@@ -241,6 +241,10 @@ ul{
     margin-left: auto;
 }
 
+#col-12-banner  h5 {
+    font-size: 1.75rem;
+}
+
 #container footer{
     width: 100%;
     height: 30px;
