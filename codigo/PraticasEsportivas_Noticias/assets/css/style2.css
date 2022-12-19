@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap');
+
+#principal {
+  border-radius: 6px;
+}
+
+#t1 {
+  font-size: 20px;
+}
+
+#t1,
+#sub1 {
+  background-color: rgba(0, 0, 0, 0.307);
+  margin: 0px;
+  text-decoration: none;
+}
+
+.banner-content {
+  text-decoration: none;
+}
+
+.vertical-menu li a {
+  text-decoration: none;
+  color: black;
+}
+
+.content-wrapper {
+  border-radius: 6px;
+}
+
+#link1 {
+  border-radius: 6px;
+}
+
+.texto1_ntp {
+  font-size: 12px;
+}
