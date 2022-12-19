@@ -1,0 +1,15 @@
+let suggestions = [
+    "futebol",
+    "esportes",
+    "volei",
+    "handebol",
+    "basquete",
+    "surfe",
+    "hipismo",
+    "exercicios",
+    "futebol feminino",
+    "triathlon",
+    "futebol americano",
+    "golfe",
+    "praticar esportes",
+  ];
