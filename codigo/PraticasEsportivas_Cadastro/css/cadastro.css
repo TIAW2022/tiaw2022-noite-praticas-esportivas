@@ -1,0 +1,22 @@
+h11 {
+    color:red;
+}
+
+#logo {
+        width:50%;
+        height:50%;
+}
+
+.panel-heading{
+    font-size:150%;
+}
+
+.btn-success {
+   margin-left: 27%;
+   margin-top: 3%;
+}
+
+.btn-danger {
+    margin-left: auto;
+    margin-top: 3%;
+}
